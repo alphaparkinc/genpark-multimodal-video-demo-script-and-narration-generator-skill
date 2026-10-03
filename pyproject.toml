@@ -1,0 +1,1 @@
+[project]\nname = "genpark-multimodal-video-demo-script-and-narration-generator-skill"\nversion = "1.0.0"\ndescription = "Transforms UI workflow action sequences into structured video demo chapters, narration voiceover scripts, and timing metadata"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
