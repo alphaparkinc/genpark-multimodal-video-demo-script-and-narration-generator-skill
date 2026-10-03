@@ -1,0 +1,1 @@
+# genpark-multimodal-video-demo-script-and-narration-generator-skill\n\nTransforms UI workflow action sequences into structured video demo chapters, narration voiceover scripts, and timing metadata.\n\n100% Python Standard Library implementation with zero external dependencies.
