@@ -1,0 +1,8 @@
+{
+  "name": "genpark-multimodal-video-demo-script-and-narration-generator-skill",
+  "version": "1.0.0",
+  "description": "Transforms UI workflow action sequences into structured video demo chapters, narration voiceover scripts, and timing metadata",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
